@@ -1,2 +1,0 @@
-# CartaAleatoria
-Created with CodeSandbox
